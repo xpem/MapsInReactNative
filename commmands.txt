@@ -1,0 +1,7 @@
+
+//para os mapas
+npm install react-native-maps
+//para localizações
+expo install expo-location
+//permissão para as localizações
+expo install expo-permissions
